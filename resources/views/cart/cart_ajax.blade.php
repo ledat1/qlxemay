@@ -104,9 +104,9 @@
 			
 		</tr>
 		@else	
-		<tr>
+		
 			<h4 style="color:red;"> Giỏ hàng trống</h4>
-	 	</tr>	
+	 		
 		@endif
 	</tbody>
 	</table>
